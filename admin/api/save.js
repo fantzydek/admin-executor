@@ -17,8 +17,8 @@ export default async function handler(req, res) {
         // Dari jsonbin.io -> Access Keys (X-Master-Key)
         // Dari jsonbin.io -> Bin ID yang sudah dibuat
         // ==========================================
-        const JSONBIN_API_KEY = 'YOUR_JSONBIN_API_KEY';
-        const JSONBIN_ID = 'YOUR_JSONBIN_ID';
+        const JSONBIN_API_KEY = '$2a$10$lIuOV3wbTffmtM9ynhxdqeRXVLVKzTj5ym3/BnwElzfFhDCpxsDPq';
+        const JSONBIN_ID = '6a923bc5da38895dfe1e9baa';
 
         // Ambil data lama
         let records = [];
